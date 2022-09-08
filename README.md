@@ -3,6 +3,7 @@ near-blank-project
 
 This app was initialized with [create-near-app]
 
+https://docs.near.org/develop/quickstart-guide
 
 Quick Start
 ===========
